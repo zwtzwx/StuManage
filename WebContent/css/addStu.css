@@ -1,0 +1,27 @@
+@CHARSET "UTF-8";
+
+
+body{
+	width: 80%;
+	margin:0px auto;
+}
+
+#uc {
+	margin-left:100px;
+}
+
+#btn {
+	background: url("../img/sousuo2.jpg");
+	background-repeat: no-repeat;
+	border: none;
+	width: 81px;
+	height:23px;
+	margin-left:47px;
+}
+
+
+.ipt {
+	border: 1px solid 	#00B2EE;
+	border-radius: 3px;
+	height:24px;
+}
